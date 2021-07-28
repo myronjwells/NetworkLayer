@@ -1,7 +1,7 @@
 # NetworkLayer
 
 
-This is a personal Network Layer I created that I use for organizing api calls and endpoints
+This is a personal base Network Layer I created that I use for organizing api calls and endpoints
 
 
 
